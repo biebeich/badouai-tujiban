@@ -1,0 +1,26 @@
+model_path,train_data_path,valid_data_path,vocab_path,max_length,model_type,hidden_size,kernel_size,num_layers,epoch,batch_size,pooling_style,learning_rate,pretrain_model_path,seed,optimizer,vocab_size,class_num,result
+output,../train_tag_news.json,../valid_tag_news.json,../chars.txt,30,cnn,128,3,2,50,32,max,0.01,F:\09 人工智能学习\预处理模型\BertBaseChinese,42,adam,4622,18,0.7083333333333334
+output,../train_tag_news.json,../valid_tag_news.json,../chars.txt,30,cnn,64,3,2,50,32,max,0.01,F:\09 人工智能学习\预处理模型\BertBaseChinese,42,adam,4622,18,0.6805555555555556
+output,../train_tag_news.json,../valid_tag_news.json,../chars.txt,30,cnn,128,3,2,50,32,max,0.001,F:\09 人工智能学习\预处理模型\BertBaseChinese,42,adam,4622,18,0.6777777777777778
+output,../train_tag_news.json,../valid_tag_news.json,../chars.txt,30,cnn,64,3,2,50,32,max,0.001,F:\09 人工智能学习\预处理模型\BertBaseChinese,42,adam,4622,18,0.6277777777777778
+output,../train_tag_news.json,../valid_tag_news.json,../chars.txt,30,cnn,128,3,2,50,32,max,0.0001,F:\09 人工智能学习\预处理模型\BertBaseChinese,42,adam,4622,18,0.6138888888888889
+output,../train_tag_news.json,../valid_tag_news.json,../chars.txt,30,cnn,64,3,2,50,32,max,0.0001,F:\09 人工智能学习\预处理模型\BertBaseChinese,42,adam,4622,18,0.4527777777777778
+output,../train_tag_news.json,../valid_tag_news.json,../chars.txt,30,gated_cnn,128,3,2,50,32,max,0.01,F:\09 人工智能学习\预处理模型\BertBaseChinese,42,adam,4622,18,0.7027777777777777
+output,../train_tag_news.json,../valid_tag_news.json,../chars.txt,30,gated_cnn,64,3,2,50,32,max,0.01,F:\09 人工智能学习\预处理模型\BertBaseChinese,42,adam,4622,18,0.6472222222222223
+output,../train_tag_news.json,../valid_tag_news.json,../chars.txt,30,gated_cnn,128,3,2,50,32,max,0.001,F:\09 人工智能学习\预处理模型\BertBaseChinese,42,adam,4622,18,0.6888888888888889
+output,../train_tag_news.json,../valid_tag_news.json,../chars.txt,30,gated_cnn,64,3,2,50,32,max,0.001,F:\09 人工智能学习\预处理模型\BertBaseChinese,42,adam,4622,18,0.5833333333333334
+output,../train_tag_news.json,../valid_tag_news.json,../chars.txt,30,gated_cnn,128,3,2,50,32,max,0.0001,F:\09 人工智能学习\预处理模型\BertBaseChinese,42,adam,4622,18,0.65
+output,../train_tag_news.json,../valid_tag_news.json,../chars.txt,30,gated_cnn,64,3,2,50,32,max,0.0001,F:\09 人工智能学习\预处理模型\BertBaseChinese,42,adam,4622,18,0.5638888888888889
+output,../train_tag_news.json,../valid_tag_news.json,../chars.txt,30,lstm,128,3,2,50,32,max,0.01,F:\09 人工智能学习\预处理模型\BertBaseChinese,42,adam,4622,18,0.6222222222222222
+output,../train_tag_news.json,../valid_tag_news.json,../chars.txt,30,lstm,64,3,2,50,32,max,0.01,F:\09 人工智能学习\预处理模型\BertBaseChinese,42,adam,4622,18,0.5111111111111111
+output,../train_tag_news.json,../valid_tag_news.json,../chars.txt,30,lstm,128,3,2,50,32,max,0.001,F:\09 人工智能学习\预处理模型\BertBaseChinese,42,adam,4622,18,0.6361111111111111
+output,../train_tag_news.json,../valid_tag_news.json,../chars.txt,30,lstm,64,3,2,50,32,max,0.001,F:\09 人工智能学习\预处理模型\BertBaseChinese,42,adam,4622,18,0.5472222222222223
+output,../train_tag_news.json,../valid_tag_news.json,../chars.txt,30,lstm,128,3,2,50,32,max,0.0001,F:\09 人工智能学习\预处理模型\BertBaseChinese,42,adam,4622,18,0.4583333333333333
+output,../train_tag_news.json,../valid_tag_news.json,../chars.txt,30,lstm,64,3,2,50,32,max,0.0001,F:\09 人工智能学习\预处理模型\BertBaseChinese,42,adam,4622,18,0.3388888888888889
+output,../train_tag_news.json,../valid_tag_news.json,../chars.txt,30,gru,128,3,2,50,32,max,0.01,F:\09 人工智能学习\预处理模型\BertBaseChinese,42,adam,4622,18,0.6472222222222223
+output,../train_tag_news.json,../valid_tag_news.json,../chars.txt,30,gru,64,3,2,50,32,max,0.01,F:\09 人工智能学习\预处理模型\BertBaseChinese,42,adam,4622,18,0.6
+output,../train_tag_news.json,../valid_tag_news.json,../chars.txt,30,gru,128,3,2,50,32,max,0.001,F:\09 人工智能学习\预处理模型\BertBaseChinese,42,adam,4622,18,0.6611111111111111
+output,../train_tag_news.json,../valid_tag_news.json,../chars.txt,30,gru,64,3,2,50,32,max,0.001,F:\09 人工智能学习\预处理模型\BertBaseChinese,42,adam,4622,18,0.6111111111111112
+output,../train_tag_news.json,../valid_tag_news.json,../chars.txt,30,gru,128,3,2,50,32,max,0.0001,F:\09 人工智能学习\预处理模型\BertBaseChinese,42,adam,4622,18,0.5861111111111111
+output,../train_tag_news.json,../valid_tag_news.json,../chars.txt,30,gru,64,3,2,50,32,max,0.0001,F:\09 人工智能学习\预处理模型\BertBaseChinese,42,adam,4622,18,0.3194444444444444
+output,../train_tag_news.json,../valid_tag_news.json,../chars.txt,30,bert,128,3,2,50,32,max,0.01,F:\09 人工智能学习\预处理模型\BertBaseChinese,42,adam,4622,18,0.058333333333333334
